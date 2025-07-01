@@ -1,7 +1,7 @@
 @layer base {
   html {
     scrollbar-width: thin;
-    scrollbar-color: rgb(156, 163, 175) rgb(249, 250, 251);
+    scrollbar-color: rgb(255, 180, 180) rgb(255, 255, 180);
   }
 
   body::-webkit-scrollbar {
