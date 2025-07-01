@@ -24,7 +24,7 @@
 
 @layer utilities {
   .dark-scrollbars-compat {
-    scrollbar-color: rgb(71, 85, 105) rgb(30, 41, 59);
+    scrollbar-color: rgb(180, 140, 210) rgb(100, 50, 150);
   }
 
   .dark-scrollbars::-webkit-scrollbar-track {
